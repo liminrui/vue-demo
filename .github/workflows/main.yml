@@ -26,4 +26,4 @@ jobs:
         with:
           folder: dist # The folder the action should deploy.
           # clean: true
-          # ssh-key: SHA256:v6dAHqoOWR8s4twswMWI3Xm5UUYnSmOuhzNjUKDo5X8
+          ssh-key: SHA256:Bu+wRzmk7q55nHuMcAZupYlrRXCHGk0syB+apzu+OTg
