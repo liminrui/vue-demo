@@ -35,6 +35,6 @@ jobs:
           path: dist/
           remote_path: /home/demo-site
           remote_host: 118.25.82.190
-          remote_port: 10022
+          remote_port: 22
           remote_user: root
           remote_key: ${{ secrets.DEPLOY_KEY }}
