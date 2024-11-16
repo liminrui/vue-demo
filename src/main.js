@@ -4,4 +4,4 @@ import App from './App.vue'
 
 createApp(App).mount('#app')
 
-console.log('create app');
+console.log('create appaaa');
